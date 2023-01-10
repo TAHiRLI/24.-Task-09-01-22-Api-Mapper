@@ -9,7 +9,7 @@ using StoreApi.Admin.Dtos.ProductDtos;
 
 namespace StoreApi.Admin.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("admin/api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
     {

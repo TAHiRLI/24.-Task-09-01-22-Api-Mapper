@@ -8,7 +8,7 @@ using System.Diagnostics.Contracts;
 
 namespace StoreApi.Admin.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("admin/api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {
